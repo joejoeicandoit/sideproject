@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Cherry+Swash&display=swap");
+
+body {
+  font-family: "Cherry Swash", sans-serif;
+  text-align: center;
+}
+
+h2,
+span {
+  color: white;
+  font-size: 31px;
+}
+
+h2 {
+  font-size: 42px;
+}
+
+.hidden {
+  display: none;
+}
+
+#clock {
+  font-size: 60px;
+}
+
+#todo-form input {
+  border-radius: 0.67em;
+  background-color: snow;
+  width: 20em;
+  height: 2em;
+}
